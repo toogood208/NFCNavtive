@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NFC Navtive</string>
+    <!-- NFC Host Card Emulation strings -->
+    <string name="service_description">NFC Message Exchange Service</string>
+    <string name="aid_description">NFC Message Protocol</string>
+</resources>
